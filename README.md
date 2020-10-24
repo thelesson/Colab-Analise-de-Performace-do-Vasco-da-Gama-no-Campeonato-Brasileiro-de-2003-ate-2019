@@ -1,4 +1,4 @@
-# Colab: Análise de Performace do Vasco da Gama no Campeonato Brasileiro de 2003 até 2019
+# Colab: Análise de Performance do Vasco da Gama no Campeonato Brasileiro de 2003 até 2019
 Analisando o desempenho do Clube de Regatas Vasco da Gama no Campeonato Brasileiro a partir da modalidade de pontos corridos(2003) até 2019.
 O arquivo .csv contém dados do Brasileirão do ano de 2000 até o ano de 2019.
 A partir do csv é gerado um novo dataset contendo apenas os dados dos jogos do compeonato brasileiro no formato de pontos corridos (2003 - 2019)
